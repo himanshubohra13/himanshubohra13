@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m actively working on enhancing my skills in as full stack developer.
-- 🌱  I’m learning C# with .NET and Angular to expand my development toolkit.
+- 🌱  I’m learning Java with React to expand my development toolkit.
 - 😎 With daily coding, I’m continuously improving my skills in `JavaScript` and `C#``.
 - 😍 I'm really fond of `Javascript`.
 - 👯 I’m looking to collaborate on projects and hackathons🤝.
